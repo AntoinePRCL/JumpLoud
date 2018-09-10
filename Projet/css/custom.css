@@ -1,0 +1,178 @@
+.accueil{
+	height: 100vh;
+}
+.navbar{
+	background-color: #12a117;
+}
+.text-accueil{
+	margin-top: 10vh;
+}
+.decalageTop{
+	margin-top: 10vh;
+}
+.titleUnderlined{
+	margin-top: 10vh;
+	border-bottom: 2px solid #12A117;
+}
+.raleway{
+	font-family: 'Raleway', sans-serif;
+}
+.nunito{
+	font-family: 'Nunito', sans-serif;
+}
+.pacifico{
+	font-family: 'Pacifico', sans-serif;
+}
+.select_user{
+	margin-right: 20px;
+}
+.row{
+/*	margin-top: 3.5rem;
+*/}
+.carousel-item{
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+	background-size: 100%;
+    
+}
+.carousel1{
+	background-image: url('/Projet/images/carousel1.jpg');
+}
+.carousel2{
+	background-image: url('/Projet/images/carousel3.jpg');
+}
+.carousel3{
+	background-image: url('/Projet/images/carousel2.jpg');
+}
+.text-carousel{
+	padding-top: 12vh;
+	padding-left: 20%;
+	padding-right: 20%;
+	color: white;
+}
+#carousel-control{
+	width: 50px;
+}
+#carousel-control:hover{
+	background-color: rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px 20px rgba(0,0,0,0.3);
+}
+#color-navbar{
+	color: white;
+
+}
+#accueilBO:hover{
+    color: red
+}
+
+.imageObjet{
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	display:;
+}
+
+.imageObjet:hover{
+	width: 500px;
+	height: 500px;
+	transition: 1s;
+}
+.avatar{
+	border-radius: 100%;
+	box-shadow: 0px 0px 10px black;
+}
+.annonce{
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 1.2rem;
+}
+.messageBorderRight{
+	margin-right: 55%;
+	background-color: grey; 
+}
+.messageBorderLeft{
+	margin-left: 55%;
+	background-color: blue; 
+}
+.messageBorder{
+	color: white; 
+	border-radius: 15px; 
+	padding: 5px;
+	padding-left: 10px;
+}
+.scrollableMessages{
+	overflow-y: auto; 
+	height:400px;
+}
+footer{
+	width: 100%;
+	height: 8vh;
+	background-color: #12a117;
+	bottom:0;
+	position: absolute;
+}
+
+.iconeFooter{
+	width: 80vh;
+	height: 8vh;
+	font-size: 2.5em;
+	margin-left: 2em;
+	float: left;
+
+}
+.logo{
+	color: white;
+	text-decoration: none
+}
+
+.textFooter{
+	width: 80vh;
+	height: 8vh;
+	font-size: 2.5em;
+	margin-left: 2em;
+	float: right
+
+}
+.contactUs{
+	color: white;
+	font-size: 0.4em;
+	text-decoration: none
+
+	}
+.contactUs:hover{
+	color: #b2b2b2b2
+
+}
+#cgu{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400vh;
+	text-align: justify;
+	margin-top: 20vh;	
+}
+.modifProfil{
+		width: 50%;
+		height:500px;
+		background-color:grey;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:4vh;
+		border-radius: 15px;
+}
+.contactUsTitle{
+	margin-top: 10vh;
+	text-align: center
+}
+.bigConteneur{
+	margin-right: auto; 
+	margin-left: auto;
+	width: 75%;
+	height: 75
+	vh;
+	background-color: #12a117
+}
+.contentMessage{
+	height: 50vh;
+}
